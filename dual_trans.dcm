@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DUAL_TRANS
+D 65V Vce, 100mA IC, Dual NPN/NPN Transistors, SOT-363
+K Transistor NPN/NPN
+F http://www.nxp.com/documents/data_sheet/BC846BS.pdf
+$ENDCMP
+#
+#End Doc Library

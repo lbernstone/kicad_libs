@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MCP9700T-E/TT
+#
+DEF MCP9700T-E/TT U 0 40 Y Y 1 L N
+F0 "U" -400 200 50 H V L BNN
+F1 "MCP9700T-E/TT" -400 -300 50 H V L BNN
+F2 "SOT95P237X112-3N" 0 0 50 H I L BNN
+F3 "Microchip" 0 0 50 H I L BNN
+F4 "MCP9700 Series 5 V -40 to +125°C Low-Power Linear Active Thermistor" 0 0 50 H I L BNN
+F5 "MCP9700T-E/TT" 0 0 50 H I L BNN
+F6 "0.22 USD" 0 0 50 H I L BNN
+F7 "Good" 0 0 50 H I L BNN
+F8 "SOT-23-3 Microchip" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 200 400 200 N
+P 2 0 0 10 400 200 400 -200 N
+P 2 0 0 10 400 -200 -400 -200 N
+P 2 0 0 10 -400 -200 -400 200 N
+X VOUT 2 -600 0 200 R 40 40 0 0 O 
+X VDD 1 600 100 200 L 40 40 0 0 W 
+X GND 3 600 -100 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

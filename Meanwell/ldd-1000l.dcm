@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDD-1000l
+D Meanwell LDD series constant current LED driver
+K LED constant current driver
+$ENDCMP
+#
+$CMP LDD-700l
+D Meanwell LDD series constant current LED driver
+K LED constant current driver
+$ENDCMP
+#
+#End Doc Library

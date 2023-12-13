@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP37GRTZ
+D Low power, analog thermistor temperature sensor, ±1C accuracy, +5C to +100C, in SOT-23-5 package
+K temperature sensor thermistor
+F http://www.mouser.com/ds/2/609/TMP35_36_37-794389.pdf
+$ENDCMP
+#
+#End Doc Library

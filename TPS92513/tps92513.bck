@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS92513
+D 1.5A constant current LED driver w/ PWM
+K PWM LED driver
+F http://www.ti.com/lit/ds/symlink/tps92513.pdf
+$ENDCMP
+#
+#End Doc Library

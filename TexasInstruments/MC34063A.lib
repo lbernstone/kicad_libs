@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MC34063A
+#
+DEF MC34063A IC 0 40 Y Y 1 L N
+F0 "IC" -300 426 50 H V L BNN
+F1 "MC34063A" -301 -501 50 H V L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "Unavailable" 0 0 50 H I L BNN
+F5 "MC34063A" 0 0 50 H I L BNN
+F6 "SMD/Our stock Madrid-New & Original" 0 0 50 H I L BNN
+F7 "Motorola" 0 0 50 H I L BNN
+F8 "None" 0 0 50 H I L BNN
+$FPLIST
+ SO08
+ DIL-08
+$ENDFPLIST
+DRAW
+P 2 0 0 10 -300 400 -300 -400 N
+P 2 0 0 10 -300 -400 400 -400 N
+P 2 0 0 10 400 -400 400 400 N
+P 2 0 0 10 400 400 -300 400 N
+X DRC 8 -400 300 100 R 40 40 0 0 I 
+X IPK 7 -400 100 100 R 40 40 0 0 I 
+X VCC 6 -400 -100 100 R 40 40 0 0 W 
+X COMP 5 -400 -300 100 R 40 40 0 0 I 
+X SWC 1 500 300 100 L 40 40 0 0 B 
+X SWE 2 500 100 100 L 40 40 0 0 B 
+X TC 3 500 -100 100 L 40 40 0 0 P 
+X GND 4 500 -300 100 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

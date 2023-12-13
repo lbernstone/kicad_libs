@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GDEP015OC1
+D E-Paper display 200x200 1.54" partial refresh SPI
+K E-paper epaper e-ink
+F http://www.futurashop.it/Allegato_PDF_ENG/4238-EPAPERP15OC1.pdf
+$ENDCMP
+#
+#End Doc Library
